@@ -1,3 +1,6 @@
-# Document
+# DOCUMENTATION THING
 
-We're gonna do this in Jekyll.
+Let's make existing documentation on multiple platforms easier to search from a single interface.
+
+
+
